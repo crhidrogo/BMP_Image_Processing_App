@@ -1,0 +1,1 @@
+Here are the results of each of the image processing functions in the application, along with the original photo 'sample.bmp'
